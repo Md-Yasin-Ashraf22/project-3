@@ -1,0 +1,52 @@
+@media (min-width: 1200px) and (max-width: 1399.98px){
+    #about .about_slider .about_slider_item img {
+
+    }
+
+    #our_testimonial .faq_info{
+        padding-top: 9px;
+    }
+    #our_testimonial .testimonial_slider .testimonial_slider_item .faq_info p {
+        font-size: 13px;
+        line-height: 24px;
+    }
+    #our_testimonial .testimonial_slider .testimonial_slider_item .faq_info h3 {
+        font-size: 17px;
+        font-weight: bold;
+    }
+    #our_testimonial .testimonial_slider .testimonial_slider_item .faq_img img {
+        clip-path: polygon(25% 0%, 100% 0%, 75% 100%, 0% 100%);
+        height: 175px;
+    }
+
+    @media (min-width:992px) and (max-width: 1199.98px){
+        #banner .banner_slider .banner_slider_icon.fa-arrow-left {
+            left: -2px;
+        }
+        #banner .banner_content h2 {
+            font-size: 35px;
+        }
+        #banner .banner_content h1 {
+            font-size: 42px;
+        }
+        #banner .banner_content p {
+            width: 560px;
+            font-size: 13px;
+        }
+        #banner .banner_btn button {
+            font-size: 15px;
+            padding: 15px 19px;  
+        }
+        #banner .mar {
+            margin-left: 56px;
+        }
+        #banner .banner_slider .banner_slider_icon.fa-arrow-left {
+            left: -2px;
+        }
+        #banner .banner_slider .banner_slider_icon {
+            width: 25px;
+            height: 25px;
+            line-height: 25px;
+        }
+    }
+}
